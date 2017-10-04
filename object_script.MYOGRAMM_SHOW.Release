@@ -1,0 +1,17 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/layer_koh.o
+./release/datacollector.o
+./release/kohonenwidget.o
+./release/serialqobj.o
+./release/drawing.o
+./release/stand_dev.o
+./release/layer.o
+./release/perceptron.o
+./release/serial.o
+./release/moc_kohonenwidget.o
+./release/moc_mainwindow.o
+./release/moc_datacollector.o
+./release/moc_serialqobj.o
+);

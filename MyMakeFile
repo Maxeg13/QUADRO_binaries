@@ -1,0 +1,2 @@
+clean:
+	rm -f release/MYOGRAMM_SHOW.EXE

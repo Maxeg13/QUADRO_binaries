@@ -1,0 +1,17 @@
+INPUT(
+./debug/main.o
+./debug/mainwindow.o
+./debug/layer_koh.o
+./debug/datacollector.o
+./debug/kohonenwidget.o
+./debug/serialqobj.o
+./debug/drawing.o
+./debug/stand_dev.o
+./debug/layer.o
+./debug/perceptron.o
+./debug/serial.o
+./debug/moc_kohonenwidget.o
+./debug/moc_mainwindow.o
+./debug/moc_datacollector.o
+./debug/moc_serialqobj.o
+);
